@@ -1,0 +1,10 @@
+{
+  "name": "Remix ScanLote AI Simples",
+  "description": "Leitor ultrassimples de produtos com IA Gemini Vision para identificação de modelo, serial e EAN diretamente na planilha.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

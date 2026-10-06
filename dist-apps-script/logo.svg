@@ -1,0 +1,18 @@
+<svg viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-full h-full">
+  <!-- White Squircle Background -->
+  <rect width="512" height="512" rx="140" fill="#FFFFFF"/>
+  
+  <!-- Main Black Emblem Mask -->
+  <path d="M256 50C170 50 112 118 112 212C112 295 186 380 256 448C326 380 400 295 400 212C400 118 342 50 256 50Z" fill="#000000"/>
+  
+  <!-- Left Wing Cutout (White) -->
+  <path d="M130 148C172 176 216 230 236 308C222 284 190 220 130 148Z" fill="#FFFFFF"/>
+  <path d="M130 148C178 180 226 238 238 318C230 280 188 206 130 148Z" fill="#FFFFFF"/>
+  
+  <!-- Right Wing Cutout (White) -->
+  <path d="M382 148C340 176 296 230 276 308C290 284 322 220 382 148Z" fill="#FFFFFF"/>
+  <path d="M382 148C334 180 286 238 274 318C282 280 324 206 382 148Z" fill="#FFFFFF"/>
+  
+  <!-- Center Vertical Point Slit Cutout (White) -->
+  <path d="M256 274C268 274 274 300 270 340L256 448L242 340C238 300 244 274 256 274Z" fill="#FFFFFF"/>
+</svg>
